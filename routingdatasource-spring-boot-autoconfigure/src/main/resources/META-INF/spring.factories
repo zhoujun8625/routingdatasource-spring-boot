@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zh.mybatis.autoconfigure.MybatisAutoConfigurationImpl,\
+com.zh.mybatis.plugin.autoconfigure.RoutingDatasourcePluginAutoConfiguration,\
+com.zh.routing.datasource.autoconfigure.RoutingDatasourceAutoConfiguration
